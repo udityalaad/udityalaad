@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="Read_me_Content\Images\giphy.webp" width="35">, I'm Uditya</h1>
 
 
-<img src="Read_me_Content\Images\wall.gif" width="400" align="right">
+<img src="Read_me_Content\Images\wall.gif" width="350" align="right">
 
 <br>
 
