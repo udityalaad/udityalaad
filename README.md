@@ -17,7 +17,7 @@
 
 ✌️ &nbsp;&nbsp;&nbsp; Well versed with  Machine Learning & Natural Language Processing
 
-🏆 &nbsp;&nbsp;Adobe Certified Expert &nbsp; | &nbsp; Microsoft Azure Certified &nbsp; |  &nbsp; AWS Certified
+🏆 &nbsp;&nbsp;Adobe Certified Expert &nbsp; <b>|</b> &nbsp; Microsoft Azure Certified &nbsp; <b>|</b>  &nbsp; AWS Certified
 
 
 
