@@ -38,7 +38,7 @@
 
 &nbsp; &nbsp; 💪🏻 &nbsp; Created a Real-time IoT solution with a target to optimize efficiency in accident prevention & handling by over 70%
 
-&nbsp; &nbsp; 💪🏻 &nbsp; Optimally used ‘Indexing’ to accelerate processing in client instance by over 1.3 x, saving 3-4 hrs in extreme cases
+&nbsp; &nbsp; 💪🏻 &nbsp; Optimally used ‘Indexing’ to accelerate processing in client instance by over 1.3 x, saving ~3-4 hrs in extreme cases
 
 &nbsp; &nbsp; 💪🏻 &nbsp; Developed a Mobile Monitoring Station in under 4 weeks, generating precise signals (for over 5 entities, at once)
 
@@ -67,9 +67,7 @@
 &nbsp; &nbsp; <img src="Read_me_Content\Images\tool.png" width="18"> <b> <i>  &nbsp;Other Tools: </i> </b> <sub> &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Git &nbsp; <b>|</b> &nbsp; Jira &nbsp; <b>|</b> &nbsp; TensorFlow &nbsp; <b>|</b> &nbsp; JUnit &nbsp; <b>|</b> &nbsp; Dafny &nbsp; <b>|</b> &nbsp; TatSu &nbsp; <b>|</b> &nbsp; CMake &nbsp; <b>|</b> &nbsp; Docker &nbsp; <b>|</b> &nbsp; z3 Solver  </sub>
 
 
-&nbsp; &nbsp; <img src="Read_me_Content\Images\skills.png" width="17"> <b> <i>  &nbsp;General Skills: </i> </b> <sub> &nbsp; &nbsp; Data Structures & Algorithms &nbsp; <b>|</b> &nbsp; Application Development &nbsp; <b>|</b> &nbsp; Machine Learning &nbsp; <b>|</b> &nbsp; Digital Marketing &nbsp; <b>|</b> &nbsp; Program Verification &nbsp; <b>|</b> </sub>
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup> &nbsp; &nbsp; Continuous Integration/Continuous Delivery (CI/CD) &nbsp; <b>|</b> &nbsp; DevOps </sup>
+&nbsp; &nbsp; <img src="Read_me_Content\Images\skills.png" width="17"> <b> <i>  &nbsp;General Skills: </i> </b> <sub> &nbsp; &nbsp; Data Structures & Algorithms &nbsp; <b>|</b> &nbsp; Application Development &nbsp; <b>|</b> &nbsp; Machine Learning &nbsp; <b>|</b> &nbsp; Digital Marketing &nbsp; <b>|</b> &nbsp; Program Verification &nbsp; <b>|</b> &nbsp; DevOps </sub>
 
 
 
