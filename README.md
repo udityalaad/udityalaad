@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="Read_me_Content\Images\giphy.webp" width="35">, I'm Uditya</h1>
 
 
-<img src="Read_me_Content\Images\wall.gif" width="350" align="right">
+<img src="Read_me_Content\Images\wall.gif" width="350" height="290" align="right">
 
 <br>
 
@@ -31,37 +31,6 @@
 <h2><img src="Read_me_Content\Images\tech_stack.png" width="40
 " height="23"> &nbsp; <i> Here's my tech-stack </i> </h2>
 
-<div style="display: inline-block">
-
-&nbsp; &nbsp; <img src="Read_me_Content\Images\programming.jpg" width="20
-">
-
-&nbsp; &nbsp; <img src="Read_me_Content\Images\database.png" width="15
-">
-
-&nbsp; &nbsp; <img src="Read_me_Content\Images\platform.png" width="18
-">
-
-&nbsp; &nbsp; <img src="Read_me_Content\Images\tool.png" width="18"> <b>
-
-&nbsp; &nbsp; <img src="Read_me_Content\Images\skills.png" width="17"> <b>
-</div>
-
-<div style="display: inline-block">
-
-<b> <i>  &nbsp;Programming: </i> </b>
-
-<b> <i>  &nbsp;Middleware: </i> </b>
-
-<b> <i>  &nbsp;Cloud Platforms: </i> </b>
-
-<b> <i>  &nbsp;Other Tools: </i> </b>
-
-<b> <i>  &nbsp;General Skills: </i> </b>
-</div>
-
-<div style="display: inline-block">
-
 &nbsp; &nbsp; <img src="Read_me_Content\Images\programming.jpg" width="20
 "> <b> <i>  &nbsp;Programming: </i> </b> <sub> &nbsp; &nbsp; Java &nbsp; <b>|</b> &nbsp; Python &nbsp; <b>|</b> &nbsp; C++ &nbsp; <b>|</b> &nbsp; Spring (MVC, Boot, REST) &nbsp; <b>|</b> &nbsp; JPA &nbsp; <b>|</b> &nbsp; Hibernate &nbsp; <b>|</b> &nbsp; Server Side Javascript (SSJS) &nbsp; <b>|</b> &nbsp; Web Development (JSP, HTML, CSS, Javascript) &nbsp; <b>|</b> &nbsp; Node.js &nbsp; <b>|</b> &nbsp; Apache Cordova &nbsp; <b>|</b> &nbsp; React </sub>
 
@@ -79,7 +48,6 @@
 
 
 &nbsp; &nbsp; <img src="Read_me_Content\Images\skills.png" width="17"> <b> <i>  &nbsp;General Skills: </i> </b> <sub> &nbsp; &nbsp; Data Structures & Algorithms &nbsp; <b>|</b> &nbsp; Application Development &nbsp; <b>|</b> &nbsp; Machine Learning &nbsp; <b>|</b> &nbsp; Digital Marketing &nbsp; <b>|</b> &nbsp; Program Verification &nbsp; <b>|</b> &nbsp; Continuous Integration/Continuous Delivery (CI/CD) &nbsp; <b>|</b> &nbsp; DevOps </sub>
-</div>
 
 
 
