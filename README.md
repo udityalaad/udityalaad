@@ -62,11 +62,11 @@
 
 <img src="Read_me_Content\Images\success.gif" width="80" align="right">
 
-&nbsp; &nbsp; 💪🏻 &nbsp; Created a Real-time IoT solution with a target to optimize efficiency in accident prevention & handing by over 70 %.
+&nbsp; &nbsp; 💪🏻 &nbsp; Created a Real-time IoT solution with a target to optimize efficiency in accident prevention & handling by over 70%
 
-&nbsp; &nbsp; 💪🏻 &nbsp; Made optimal use of ‘Indexing’ to accelerate processing in client instance by over 1.3 x, saving ~3-4 hrs in extreme cases.
+&nbsp; &nbsp; 💪🏻 &nbsp; Optimally used ‘Indexing’ to accelerate processing in client instance by over 1.3 x, saving 3-4 hrs in extreme cases
 
-&nbsp; &nbsp; 💪🏻 &nbsp; Developed a Mobile Monitoring Station in under 4 weeks, generating precise signals (for over 5 entities, at once).
+&nbsp; &nbsp; 💪🏻 &nbsp; Developed a Mobile Monitoring Station in under 4 weeks, generating precise signals (for over 5 entities, at once)
 
 
 
