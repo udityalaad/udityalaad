@@ -27,6 +27,25 @@
 
 
 
+
+
+
+
+<h2><img src="Read_me_Content\Images\achievements.jpg" width="50
+" height="35"> &nbsp; <i> Some interesting facts about me </i> </h2>
+
+<img src="Read_me_Content\Images\success.gif" width="80" align="left">
+
+&nbsp; &nbsp; 💪🏻 &nbsp; Created a Real-time IoT solution with a target to optimize efficiency in accident prevention & handling by over 70%
+
+&nbsp; &nbsp; 💪🏻 &nbsp; Optimally used ‘Indexing’ to accelerate processing in client instance by over 1.3 x, saving 3-4 hrs in extreme cases
+
+&nbsp; &nbsp; 💪🏻 &nbsp; Developed a Mobile Monitoring Station in under 4 weeks, generating precise signals (for over 5 entities, at once)
+
+
+<br>
+
+
 <h2><img src="Read_me_Content\Images\tech_stack.png" width="40
 " height="23"> &nbsp; <i> Here's my tech-stack </i> </h2>
 
@@ -52,21 +71,6 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup> &nbsp; &nbsp; Continuous Integration/Continuous Delivery (CI/CD) &nbsp; <b>|</b> &nbsp; DevOps </sup>
 
-
-
-
-
-
-<h2><img src="Read_me_Content\Images\achievements.jpg" width="50
-" height="35"> &nbsp; <i> Some interesting facts about me </i> </h2>
-
-<img src="Read_me_Content\Images\success.gif" width="80" align="right">
-
-&nbsp; &nbsp; 💪🏻 &nbsp; Created a Real-time IoT solution with a target to optimize efficiency in accident prevention & handling by over 70%
-
-&nbsp; &nbsp; 💪🏻 &nbsp; Optimally used ‘Indexing’ to accelerate processing in client instance by over 1.3 x, saving 3-4 hrs in extreme cases
-
-&nbsp; &nbsp; 💪🏻 &nbsp; Developed a Mobile Monitoring Station in under 4 weeks, generating precise signals (for over 5 entities, at once)
 
 
 
