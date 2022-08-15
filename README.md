@@ -22,6 +22,7 @@
 
 
 
+<br>
 
 
 
@@ -68,6 +69,8 @@
 &nbsp; &nbsp; 💪🏻 &nbsp; Developed a Mobile Monitoring Station in under 4 weeks, generating precise signals (for over 5 entities, at once).
 
 
+
+<br>
 
 
 
