@@ -79,7 +79,7 @@
 
 
 <h2><img src="Read_me_Content\Images\network.jpg" width="55
-" height="23"> &nbsp; <i> Wanna connect? Give me a shout via </i> </h2>
+" height="23"> &nbsp; <i> Wanna connect? Give me a shout via </i>  </h2>
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/uditya-laad-222680148"><img src="Read_me_Content\Images\linkedin.png" width="40
 " > </a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/udityalaad"><img src="Read_me_Content\Images\github.png" width="41
