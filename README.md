@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="Read_me_Content\Images\giphy.webp" width="35">, I'm Uditya</h1>
 
 
-<img src="Read_me_Content\Images\wall.gif" width="325" height="280" align="right">
+<img src="Read_me_Content\Images\wall.gif" width="315" height="280" align="right">
 
 <br>
 
@@ -21,8 +21,6 @@
 
 
 
-
-<br>
 
 
 
@@ -55,7 +53,6 @@
 
 
 
-<br>
 
 
 
@@ -71,8 +68,6 @@
 &nbsp; &nbsp; 💪🏻 &nbsp; Developed a Mobile Monitoring Station in under 4 weeks, generating precise signals (for over 5 entities, at once).
 
 
-
-<br>
 
 
 
