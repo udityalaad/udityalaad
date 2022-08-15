@@ -1,9 +1,11 @@
 <h1 align="center">Hi <img src="Read_me_Content\Images\giphy.webp" width="35">, I'm Uditya</h1>
 
 
-<img src="Read_me_Content\Images\wall.gif" width="305" height="290" align="right">
+<img src="Read_me_Content\Images\wall.gif" width="305" height="330" align="right">
 
-<br>
+
+<h2><img src="Read_me_Content\Images\profile_pic_alt.png" width="30
+"> &nbsp; <i> Take a glance at what I do </i> </h2>
 
 🔭 &nbsp; Grad Student @uWaterloo with ~2 yrs of experience in Software Development
 
