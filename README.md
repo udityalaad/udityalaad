@@ -67,7 +67,7 @@
 &nbsp; &nbsp; <img src="Read_me_Content\Images\tool.png" width="18"> <b> <i>  &nbsp;Other Tools: </i> </b> <sub> &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Git &nbsp; <b>|</b> &nbsp; Jira &nbsp; <b>|</b> &nbsp; TensorFlow &nbsp; <b>|</b> &nbsp; JUnit &nbsp; <b>|</b> &nbsp; Dafny &nbsp; <b>|</b> &nbsp; TatSu &nbsp; <b>|</b> &nbsp; CMake &nbsp; <b>|</b> &nbsp; Docker &nbsp; <b>|</b> &nbsp; z3 Solver  </sub>
 
 
-&nbsp; &nbsp; <img src="Read_me_Content\Images\skills.png" width="17"> <b> <i>  &nbsp;General Skills: </i> </b> <sub> &nbsp; &nbsp; Data Structures & Algorithms &nbsp; <b>|</b> &nbsp; Application Development &nbsp; <b>|</b> &nbsp; Machine Learning &nbsp; <b>|</b> &nbsp; Digital Marketing &nbsp; <b>|</b> &nbsp; Program Verification &nbsp; <b>|</b> &nbsp; DevOps </sub>
+&nbsp; &nbsp; <img src="Read_me_Content\Images\skills.png" width="17"> <b> <i>  &nbsp;General Skills: </i> </b> <sub> &nbsp; &nbsp; Data Structures & Algorithms &nbsp; <b>|</b> &nbsp; Application Development &nbsp; <b>|</b> &nbsp; Machine Learning &nbsp; <b>|</b> &nbsp; Digital Marketing &nbsp; <b>|</b> &nbsp; Program Verification </sub>
 
 
 
@@ -77,7 +77,7 @@
 
 
 <h2><img src="Read_me_Content\Images\network.jpg" width="55
-" height="23"> &nbsp; <i> Give me shout via </i> </h2>
+" height="23"> &nbsp; <i> Wanna connect? Give me shout via </i> </h2>
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/uditya-laad-222680148"><img src="Read_me_Content\Images\linkedin.png" width="40
 " > </a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/udityalaad"><img src="Read_me_Content\Images\github.png" width="41
