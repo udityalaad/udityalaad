@@ -5,40 +5,19 @@
 
 <br>
 
-<div style="display: inline-block">
+🔭 &nbsp; Grad Student @uWaterloo with ~2 yrs of experience in Software Development
 
-🔭 
+⚡ &nbsp; Experienced in Microservices, App Development & Object Oriented programming
 
-⚡ 
+🌱 &nbsp; Adobe Expert in Technical Workflow, Automation, Data Analysis, Web-services
 
-🌱 
+👌 &nbsp; Familiar with Fuzzing, Symbolic Execution & Deductive Analysis
 
-👌 
+🎓 &nbsp; Experienced in SQL as well as NoSQL Databases
 
-🎓
+✌️ &nbsp; Well versed with  Machine Learning & Natural Language Processing
 
-✌️ 
-
-🏆 
-</div>
-
-
-<div style="display: inline-block">
-
-&nbsp; Grad Student @uWaterloo with ~2 years of experience in Software Development
-
-&nbsp; Experienced in Microservices, Mobile App Development & Object Oriented programming
-
-&nbsp; Adobe Expert in Technical Workflow, Automation, Data Analysis, Querying, Web-services
-
-&nbsp; Familiar with Fuzzing, Symbolic Execution & Deductive Analysis
-
-&nbsp; Experienced in SQL as well as NoSQL Databases
-
-&nbsp; Well versed with  Machine Learning & Natural Language Processing
-
-&nbsp; Adobe Certified Expert &nbsp; | &nbsp; Microsoft Azure Certified &nbsp; |  &nbsp; AWS Certified
-</div>
+🏆 &nbsp; Adobe Certified Expert &nbsp; | &nbsp; Microsoft Azure Certified &nbsp; |  &nbsp; AWS Certified
 
 
 
