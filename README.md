@@ -5,7 +5,7 @@
 
 
 <h2><img src="Read_me_Content\Images\profile_pic_alt.png" width="27
-"> &nbsp; <i> Take a glance at what I do </i> </h2>
+"> &nbsp; <i> A glance at what I do </i> </h2>
 
 🔭 &nbsp; Grad Student @uWaterloo with ~2 yrs of experience in Software Development
 
