@@ -10,7 +10,9 @@
 I'm a keen learner and someone who likes to develop feasible and efficient solutions to try and make the best possible impact. I've worked on projects spanning different domains and technologies including & not limited to E-commerce, Fintech, Digital Marketing and so on.
 
 👌 I have over 3 years of experience handling multiple aspects of distributed systems including Microservices, Relational as well as NoSQL databases, One-page front-end applications, Load Balancing, Caching, Data Analysis & so on.
+
 👌 With certifications from Adobe, Microsoft Azure & AWS; I leverage my cloud expertise to create highly scalable systems that range over a spectrum of consistencies & availabilities.
+
 👌 I use Machine Learning, NLP, Fuzzing, Query Processing, Information Retrieval etc - to create AI & language models and perform data analysis on a continual basis.
 
 My major areas of interest include 👉🏻 Program Optimization, Distributed Systems, Machine Learning, Platform Autonomy, NP-hard problems and the like.
