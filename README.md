@@ -17,8 +17,6 @@ I'm a keen learner and someone who likes to develop feasible and efficient solut
 
 My major areas of interest include 👉🏻 Program Optimization, Distributed Systems, Machine Learning, Platform Autonomy, NP-hard problems and the like.
 
-I love connecting with people, give me a shout via 📧Email or 🧑LinkedIn.
-
 
 
 
