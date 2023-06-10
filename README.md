@@ -56,7 +56,7 @@ I love connecting with people, give me a shout via 📧Email or 🧑LinkedIn.
 
 
 &nbsp; &nbsp; <img src="Read_me_Content\Images\platform.png" width="18
-"> <b> <i>  &nbsp;Platforms: &nbsp; </i> </b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub> Amazon Web Services (AWS) &nbsp; <b>•</b> &nbsp; Microsoft Azure &nbsp; <b>•</b> &nbsp; Firebase &nbsp;<b>•</b> &nbsp; IBM Cloud &nbsp; <b>•</b> &nbsp; Adobe Campaign  </sub> 
+"> <b> <i>  &nbsp;Platforms: &nbsp; </i> </b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub> Amazon Web Services (AWS) &nbsp; <b>•</b> &nbsp; Microsoft Azure Cloud &nbsp; <b>•</b> &nbsp; Firebase &nbsp;<b>•</b> &nbsp; IBM Cloud &nbsp; <b>•</b> &nbsp; Adobe Campaign  </sub> 
 
 
 &nbsp; &nbsp; <img src="Read_me_Content\Images\tool.png" width="18"> <b> <i> &nbsp;Other Tools: </i> </b> &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; <sub> Git &nbsp; <b>•</b> &nbsp; Docker &nbsp; <b>•</b> &nbsp; TensorFlow &nbsp; <b>•</b> &nbsp; JUnit &nbsp; <b>•</b> &nbsp; JEST &nbsp; <b>•</b> &nbsp; Dafny &nbsp; <b>•</b> &nbsp; TatSu &nbsp; <b>•</b> &nbsp; z3 Solver  </sub> 
