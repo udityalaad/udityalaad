@@ -5,21 +5,17 @@
 
 
 <h2><img src="Read_me_Content\Images\profile_pic_alt.png" width="27
-"> &nbsp; <i> A glance at what I do </i> </h2>
+"> &nbsp; <i> Intro </i> </h2>
 
-🔭 &nbsp; Grad Student @uWaterloo with ~2 yrs of experience in Software Development
+I'm a keen learner and someone who likes to develop feasible and efficient solutions to try and make the best possible impact. I've worked on projects spanning different domains and technologies including & not limited to E-commerce, Fintech, Digital Marketing and so on.
 
-⚡ &nbsp; Experienced in Microservices, App Development & Object Oriented programming
+👌 I have over 3 years of experience handling multiple aspects of distributed systems including Microservices, Relational as well as NoSQL databases, One-page front-end applications, Load Balancing, Caching, Data Analysis & so on.
+👌 With certifications from Adobe, Microsoft Azure & AWS; I leverage my cloud expertise to create highly scalable systems that range over a spectrum of consistencies & availabilities.
+👌 I use Machine Learning, NLP, Fuzzing, Query Processing, Information Retrieval etc - to create AI & language models and perform data analysis on a continual basis.
 
-🌱 &nbsp; Adobe Expert in Technical Workflow, Automation, Data Analysis, Web-services
+My major areas of interest include 👉🏻 Program Optimization, Distributed Systems, Machine Learning, Platform Autonomy, NP-hard problems and the like.
 
-👌 &nbsp; &nbsp;Familiar with Fuzzing, Symbolic Execution & Deductive Analysis
-
-🎓 &nbsp; Experienced in SQL as well as NoSQL Databases
-
-✌️ &nbsp;&nbsp;&nbsp; Well versed with  Machine Learning & Natural Language Processing
-
-🏆 &nbsp;&nbsp;Adobe Certified Expert &nbsp; <b>|</b> &nbsp; Microsoft Azure Certified &nbsp; <b>|</b>  &nbsp; AWS Certified
+I love connecting with people, give me a shout via 📧Email or 🧑LinkedIn.
 
 
 
@@ -52,24 +48,20 @@
 " height="23"> &nbsp; <i> Here's my tech-stack </i> </h2>
 
 &nbsp; &nbsp; <img src="Read_me_Content\Images\programming.jpg" width="20
-"> <b> <i>  &nbsp;Programming: </i> </b> <sub> &nbsp; &nbsp; Java &nbsp; <b>|</b> &nbsp; Python &nbsp; <b>|</b> &nbsp; C++ &nbsp; <b>|</b> &nbsp; Spring (MVC, Boot, REST) &nbsp; <b>|</b> &nbsp; JPA &nbsp; <b>|</b> &nbsp; Hibernate &nbsp; <b>|</b> &nbsp; Server Side Javascript (SSJS) &nbsp; <b>|</b> </sub>
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup> Web Development (JSP, HTML, CSS, Javascript) &nbsp; <b>|</b> &nbsp; Node.js &nbsp; <b>|</b> &nbsp; Apache Cordova &nbsp; <b>|</b> &nbsp; React </sup>
-
-
+"> <b> <i>  &nbsp;Programming: </i> </b> <sub> &nbsp; &nbsp; Java &nbsp; <b>|</b> &nbsp; Python &nbsp; <b>|</b> &nbsp; C++ &nbsp; <b>|</b> &nbsp; Spring Boot • &nbsp; <b>|</b> &nbsp; Node.js &nbsp; <b>|</b> &nbsp; React.js &nbsp; <b>|</b> &nbsp; RESTful APIs &nbsp; <b>|</b> &nbsp; JavaScript &nbsp; <b>|</b> &nbsp; Express.js &nbsp; </sub>
 
 &nbsp; &nbsp; <img src="Read_me_Content\Images\database.png" width="15
-"> <b> <i>  &nbsp; Middleware: </i> </b> &nbsp; <sub> &nbsp; &nbsp; &nbsp; Oracle DB &nbsp; <b>|</b> &nbsp; MySQL &nbsp; <b>|</b> &nbsp; Firebase Real-time DB </sub>
+"> <b> <i>  &nbsp; Middleware: </i> </b> &nbsp; <sub> &nbsp; &nbsp; &nbsp; MySQL &nbsp; <b>|</b> &nbsp; Oracle Database &nbsp; <b>|</b> &nbsp; Firebase NoSQL DB &nbsp; <b>|</b> &nbsp; MongoDB </sub>
 
 
 &nbsp; &nbsp; <img src="Read_me_Content\Images\platform.png" width="18
 "> <b> <i>  &nbsp;Platforms: &nbsp; </i> </b> <sub> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Amazon Web Services (AWS) &nbsp; <b>|</b> &nbsp; Microsoft Azure &nbsp; <b>|</b> &nbsp; Adobe Campaign &nbsp;<b>|</b> &nbsp; Firebase &nbsp; <b>|</b> &nbsp; Salesforce Marketing Cloud (SFMC)</sub>
 
 
-&nbsp; &nbsp; <img src="Read_me_Content\Images\tool.png" width="18"> <b> <i>  &nbsp;Other Tools: </i> </b> <sub> &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Git &nbsp; <b>|</b> &nbsp; Jira &nbsp; <b>|</b> &nbsp; TensorFlow &nbsp; <b>|</b> &nbsp; JUnit &nbsp; <b>|</b> &nbsp; Dafny &nbsp; <b>|</b> &nbsp; TatSu &nbsp; <b>|</b> &nbsp; CMake &nbsp; <b>|</b> &nbsp; Docker &nbsp; <b>|</b> &nbsp; z3 Solver  </sub>
+&nbsp; &nbsp; <img src="Read_me_Content\Images\tool.png" width="18"> <b> <i>  &nbsp;Other Tools: </i> </b> <sub> &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Git &nbsp; <b>|</b> &nbsp; Docker &nbsp; <b>|</b> &nbsp; TensorFlow &nbsp; <b>|</b> &nbsp; JUnit &nbsp; <b>|</b> &nbsp; Dafny &nbsp; <b>|</b> &nbsp; TatSu &nbsp; <b>|</b> &nbsp; z3 Solver  </sub>
 
 
-&nbsp; &nbsp; <img src="Read_me_Content\Images\skills.png" width="17"> <b> <i>  &nbsp;General Skills: </i> </b> <sub> &nbsp; &nbsp; Data Structures & Algorithms &nbsp; <b>|</b> &nbsp; Application Development &nbsp; <b>|</b> &nbsp; Machine Learning &nbsp; <b>|</b> &nbsp; Digital Marketing &nbsp; <b>|</b> &nbsp; Program Verification </sub>
+&nbsp; &nbsp; <img src="Read_me_Content\Images\skills.png" width="17"> <b> <i>  &nbsp;General Skills: </i> </b> <sub> &nbsp; &nbsp; Data Structures & Algorithms &nbsp; <b>|</b> &nbsp; Microservices &nbsp; <b>|</b> &nbsp; System Design &nbsp; <b>|</b> &nbsp; Data Analysis &nbsp; <b>|</b> &nbsp; Machine Learning &nbsp; <b>|</b> &nbsp; Agile &nbsp; <b>|</b> &nbsp; Distributed Systems </sub>
 
 
 
