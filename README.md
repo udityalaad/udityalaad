@@ -21,7 +21,7 @@ I love connecting with people, give me a shout via 📧Email or 🧑LinkedIn.
 
 
 
-<br>
+
 
 
 
@@ -37,7 +37,7 @@ I love connecting with people, give me a shout via 📧Email or 🧑LinkedIn.
 &nbsp; &nbsp; 💪🏻 &nbsp; Developed a Mobile Monitoring Station in under 4 weeks, generating precise signals (for over 5 entities, at once)
 
 
-<br>
+
 
 
 <h2><img src="Read_me_Content\Images\tech_stack.png" width="40
