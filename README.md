@@ -48,21 +48,21 @@ I love connecting with people, give me a shout via 📧Email or 🧑LinkedIn.
 " height="23"> &nbsp; <i> Here's my tech-stack </i> </h2>
 
 &nbsp; &nbsp; <img src="Read_me_Content\Images\programming.jpg" width="20
-"> <b> <i>  &nbsp;Programming: </i> </b> <sub> &nbsp; &nbsp; Java &nbsp; <b>•</b> &nbsp; Python &nbsp; <b>•</b> &nbsp; C++ &nbsp; <b>•</b> &nbsp; Spring Boot &nbsp; <b>•</b> &nbsp; Node.js &nbsp; <b>•</b> &nbsp; React.js &nbsp; <b>•</b> &nbsp; RESTful APIs &nbsp; <b>•</b> &nbsp; JavaScript &nbsp; <b>•</b> &nbsp; Express.js  </sub> 
+"> <b> <i>  &nbsp;Programming: </i> </b> &nbsp; &nbsp; <sub> Java &nbsp; <b>•</b> &nbsp; Python &nbsp; <b>•</b> &nbsp; C++ &nbsp; <b>•</b> &nbsp; Spring Boot &nbsp; <b>•</b> &nbsp; Node.js &nbsp; <b>•</b> &nbsp; React.js &nbsp; <b>•</b> &nbsp; RESTful APIs &nbsp; <b>•</b> &nbsp; JavaScript &nbsp; <b>•</b> &nbsp; Express.js  </sub> 
 
 
 &nbsp; &nbsp; <img src="Read_me_Content\Images\database.png" width="15
-"> <b> <i>  &nbsp; Databases: </i> </b> <sub> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MySQL &nbsp; <b>•</b> &nbsp; Oracle Database &nbsp; <b>•</b> &nbsp; PostgreSQL &nbsp; <b>•</b> &nbsp; MongoDB &nbsp; <b>•</b> &nbsp; Firebase NoSQL DB  </sub> 
+"> <b> <i>  &nbsp; Databases: </i> </b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub> MySQL &nbsp; <b>•</b> &nbsp; Oracle Database &nbsp; <b>•</b> &nbsp; PostgreSQL &nbsp; <b>•</b> &nbsp; MongoDB &nbsp; <b>•</b> &nbsp; Firebase NoSQL DB  </sub> 
 
 
 &nbsp; &nbsp; <img src="Read_me_Content\Images\platform.png" width="18
-"> <b> <i>  &nbsp;Platforms: &nbsp; </i> </b> <sub> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Amazon Web Services (AWS) &nbsp; <b>•</b> &nbsp; Microsoft Azure &nbsp; <b>•</b> &nbsp; Firebase &nbsp;<b>•</b> &nbsp; IBM Cloud &nbsp; <b>•</b> &nbsp; Adobe Campaign  </sub> 
+"> <b> <i>  &nbsp;Platforms: &nbsp; </i> </b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub> Amazon Web Services (AWS) &nbsp; <b>•</b> &nbsp; Microsoft Azure &nbsp; <b>•</b> &nbsp; Firebase &nbsp;<b>•</b> &nbsp; IBM Cloud &nbsp; <b>•</b> &nbsp; Adobe Campaign  </sub> 
 
 
-&nbsp; &nbsp; <img src="Read_me_Content\Images\tool.png" width="18"> <b> <i> &nbsp;Other Tools: </i> </b> <sub> &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Git &nbsp; <b>•</b> &nbsp; Docker &nbsp; <b>•</b> &nbsp; TensorFlow &nbsp; <b>•</b> &nbsp; JUnit &nbsp; <b>•</b> &nbsp; JEST &nbsp; <b>•</b> &nbsp; Dafny &nbsp; <b>•</b> &nbsp; TatSu &nbsp; <b>•</b> &nbsp; z3 Solver  </sub> 
+&nbsp; &nbsp; <img src="Read_me_Content\Images\tool.png" width="18"> <b> <i> &nbsp;Other Tools: </i> </b> &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; <sub> Git &nbsp; <b>•</b> &nbsp; Docker &nbsp; <b>•</b> &nbsp; TensorFlow &nbsp; <b>•</b> &nbsp; JUnit &nbsp; <b>•</b> &nbsp; JEST &nbsp; <b>•</b> &nbsp; Dafny &nbsp; <b>•</b> &nbsp; TatSu &nbsp; <b>•</b> &nbsp; z3 Solver  </sub> 
 
 
-&nbsp; &nbsp; <img src="Read_me_Content\Images\skills.png" width="17"> <b> <i> &nbsp;General Skills: </i> </b> <sub> &nbsp; &nbsp; Microservices &nbsp; <b>•</b> &nbsp; System Design &nbsp; <b>•</b> &nbsp; Data Analysis &nbsp; <b>•</b> &nbsp; Machine Learning &nbsp; <b>•</b> &nbsp; Distributed Systems  </sub> 
+&nbsp; &nbsp; <img src="Read_me_Content\Images\skills.png" width="17"> <b> <i> &nbsp; General Skills: </i> </b> &nbsp; &nbsp; <sub> Microservices &nbsp; <b>•</b> &nbsp; System Design &nbsp; <b>•</b> &nbsp; Data Analysis &nbsp; <b>•</b> &nbsp; Machine Learning &nbsp; <b>•</b> &nbsp; Distributed Systems  </sub> 
 
 
 
