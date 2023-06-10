@@ -50,7 +50,7 @@ I love connecting with people, give me a shout via 📧Email or 🧑LinkedIn.
 " height="23"> &nbsp; <i> Here's my tech-stack </i> </h2>
 
 &nbsp; &nbsp; <img src="Read_me_Content\Images\programming.jpg" width="20
-"> <b> <i>  &nbsp;Programming: </i> </b> <sub> &nbsp; &nbsp; Java &nbsp; <b>•</b> &nbsp; Python &nbsp; <b>•</b> &nbsp; C++ &nbsp; <b>•</b> &nbsp; Spring Boot &nbsp; <b>•</b> &nbsp; Node.js &nbsp; <b>•</b> &nbsp; React.js &nbsp; <b>•</b> &nbsp; RESTful APIs &nbsp; <b>|</b> &nbsp; JavaScript &nbsp; <b>•</b> &nbsp; Express.js &nbsp; </sub>
+"> <b> <i>  &nbsp;Programming: </i> </b> <sub> &nbsp; &nbsp; Java &nbsp; <b>•</b> &nbsp; Python &nbsp; <b>•</b> &nbsp; C++ &nbsp; <b>•</b> &nbsp; Spring Boot &nbsp; <b>•</b> &nbsp; Node.js &nbsp; <b>•</b> &nbsp; React.js &nbsp; <b>•</b> &nbsp; RESTful APIs &nbsp; <b>•</b> &nbsp; JavaScript &nbsp; <b>•</b> &nbsp; Express.js &nbsp; </sub>
 
 &nbsp; &nbsp; <img src="Read_me_Content\Images\database.png" width="15
 "> <b> <i>  &nbsp; Middleware: </i> </b> &nbsp; <sub> &nbsp; &nbsp; &nbsp; MySQL &nbsp; <b>•</b> &nbsp; Oracle Database &nbsp; <b>•</b> &nbsp; Firebase NoSQL DB &nbsp; <b>•</b> &nbsp; MongoDB </sub>
