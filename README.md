@@ -48,7 +48,7 @@ I love connecting with people, give me a shout via 📧Email or 🧑LinkedIn.
 " height="23"> &nbsp; <i> Here's my tech-stack </i> </h2>
 
 &nbsp; &nbsp; <img src="Read_me_Content\Images\programming.jpg" width="20
-"> <b> <i>  &nbsp;Programming: </i> </b> &nbsp; &nbsp; Java &nbsp; <b>•</b> &nbsp; Python &nbsp; <b>•</b> &nbsp; C++ &nbsp; <b>•</b> &nbsp; Spring Boot &nbsp; <b>•</b> &nbsp; Node.js &nbsp; <b>•</b> &nbsp; React.js &nbsp; <b>•</b> &nbsp; RESTful APIs &nbsp; <b>•</b> &nbsp; JavaScript &nbsp; <b>•</b> &nbsp; Express.js
+"> <b> <i>  &nbsp;Programming: </i> </b> &nbsp; &nbsp; Java <b>•</b> Python <b>•</b> C++ <b>•</b> Spring Boot <b>•</b> Node.js <b>•</b> React.js <b>•</b> RESTful APIs <b>•</b> JavaScript <b>•</b> Express.js
 
 &nbsp; &nbsp; <img src="Read_me_Content\Images\database.png" width="15
 "> <b> <i>  &nbsp; Databases: </i> </b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MySQL &nbsp; <b>•</b> &nbsp; Oracle Database &nbsp; <b>•</b> &nbsp; PostgreSQL &nbsp; <b>•</b> &nbsp; MongoDB &nbsp; <b>•</b> &nbsp; Firebase NoSQL DB
