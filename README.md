@@ -21,13 +21,7 @@ I love connecting with people, give me a shout via 📧Email or 🧑LinkedIn.
 
 
 
-
 <br>
-
-
-
-
-
 
 
 
