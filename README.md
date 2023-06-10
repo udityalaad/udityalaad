@@ -5,7 +5,7 @@
 
 
 <h2><img src="Read_me_Content\Images\profile_pic_alt.png" width="27
-"> &nbsp; <i> Intro </i> </h2>
+"> &nbsp; <i> Get to know me </i> </h2>
 
 I'm a keen learner and someone who likes to develop feasible and efficient solutions to try and make the best possible impact. I've worked on projects spanning different domains and technologies including & not limited to E-commerce, Fintech, Digital Marketing and so on.
 
