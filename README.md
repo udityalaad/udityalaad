@@ -52,7 +52,7 @@ I love connecting with people, give me a shout via 📧Email or 🧑LinkedIn.
 
 
 &nbsp; &nbsp; <img src="Read_me_Content\Images\database.png" width="15
-"> <b> <i>  &nbsp; Databases: </i> </b>  <sub> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MySQL &nbsp; <b>•</b> &nbsp; Oracle Database &nbsp; <b>•</b> &nbsp; PostgreSQL &nbsp; <b>•</b> &nbsp; MongoDB &nbsp; <b>•</b> &nbsp; Firebase NoSQL DB  </sub> 
+"> <b> <i>  &nbsp; Databases: </i> </b> <sub> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MySQL &nbsp; <b>•</b> &nbsp; Oracle Database &nbsp; <b>•</b> &nbsp; PostgreSQL &nbsp; <b>•</b> &nbsp; MongoDB &nbsp; <b>•</b> &nbsp; Firebase NoSQL DB  </sub> 
 
 
 &nbsp; &nbsp; <img src="Read_me_Content\Images\platform.png" width="18
