@@ -46,11 +46,11 @@ My major areas of interest include 👉🏻 Program Optimization, Distributed Sy
 " height="23"> &nbsp; <i> Here's my tech-stack </i> </h2>
 
 &nbsp; &nbsp; <img src="Read_me_Content\Images\programming.jpg" width="20
-"> <b> <i>  &nbsp;Programming: </i> </b> &nbsp; &nbsp; <sub> Java &nbsp; <b>•</b> &nbsp; Python &nbsp; <b>•</b> &nbsp; C++ &nbsp; <b>•</b> &nbsp; Spring Boot &nbsp; <b>•</b> &nbsp; Node.js &nbsp; <b>•</b> &nbsp; React.js &nbsp; <b>•</b> &nbsp; RESTful APIs &nbsp; <b>•</b> &nbsp; JavaScript &nbsp; <b>•</b> &nbsp; Express.js  </sub> 
+"> <b> <i>  &nbsp;Programming: </i> </b> &nbsp; &nbsp; <sub> Java &nbsp; <b>•</b> &nbsp; Python &nbsp; <b>•</b> &nbsp; C# &nbsp; <b>•</b> &nbsp; C++ &nbsp; <b>•</b> &nbsp; Spring Boot &nbsp; <b>•</b> &nbsp; Node.js &nbsp; <b>•</b> &nbsp; React.js &nbsp; <b>•</b> &nbsp; RESTful APIs &nbsp; <b>•</b> &nbsp; JavaScript &nbsp; <b>•</b> &nbsp; Express.js  </sub> 
 
 
 &nbsp; &nbsp; <img src="Read_me_Content\Images\database.png" width="15
-"> <b> <i>  &nbsp; Databases: </i> </b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub> MySQL &nbsp; <b>•</b> &nbsp; Oracle Database &nbsp; <b>•</b> &nbsp; PostgreSQL &nbsp; <b>•</b> &nbsp; MongoDB &nbsp; <b>•</b> &nbsp; Firebase NoSQL DB  </sub> 
+"> <b> <i>  &nbsp; Databases: </i> </b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub> MySQL &nbsp; <b>•</b> &nbsp; Redis Cache &nbsp; <b>•</b> &nbsp; Oracle Database &nbsp; <b>•</b> &nbsp; PostgreSQL &nbsp; <b>•</b> &nbsp; MongoDB &nbsp; <b>•</b> &nbsp; Firebase NoSQL DB  </sub> 
 
 
 &nbsp; &nbsp; <img src="Read_me_Content\Images\platform.png" width="18
